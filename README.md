@@ -3,7 +3,7 @@ Simple Chat App In Kotlin With Firebase Authentication + Firebase Firestore.If Y
 
 ## Technologies & Architecture
 #### Technologies
--Android,Kotlin,XML
+- Android,Kotlin,XML
 #### Firebase
 - Firebase Connection For Authentication
 - Firebase Connection For Database(Firestore)
