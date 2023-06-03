@@ -32,8 +32,8 @@ Simple Chat App In Kotlin With Firebase Authentication + Firebase Firestore.If Y
 - Setup Authentication and use the Sign-in method 'Email/Password'
 - Setup Firestore Database
 - Replace the file google-services.json
-Note: Download the google-services.json file after the Firebase services are set up to automatically include the services in the json file.
-Note: When updating the google-services.json file then make sure to invalidate the caches as well as doing a clean + rebuild.
+- Note: Download the google-services.json file after the Firebase services are set up to automatically include the services in the json file.
+- Note: When updating the google-services.json file then make sure to invalidate the caches as well as doing a clean + rebuild.
 #### Project
 - Download and open the project in Android Studio
 - Connect your Android phone or use the emulator to start the application
