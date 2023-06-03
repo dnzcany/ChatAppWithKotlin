@@ -2,9 +2,9 @@
 Simple Chat App In Kotlin With Firebase Authentication + Firebase Firestore.If You Examine This Project You Can Understand How Firebase Firestore And Authentication Working With Kotlin.
 
 ## Technologies & Architecture
-#Technologies
+#### Technologies
 -Android,Kotlin,XML
-#Firebase
+#### Firebase
 - Firebase Connection For Authentication
 - Firebase Connection For Database(Firestore)
 
