@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994594775301",
+    "project_id": "chatapp1-e8812",
+    "storage_bucket": "chatapp1-e8812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994594775301:android:5bd1b63e8a4a68c2de576c",
+        "android_client_info": {
+          "package_name": "com.denobaba.chattappwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsVw1sufPrpx7OIeEixA313dZZAqs2FVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
