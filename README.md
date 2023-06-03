@@ -9,7 +9,7 @@ Simple Chat App In Kotlin With Firebase Authentication + Firebase Firestore.If Y
 - Firebase Connection For Database(Firestore)
 
 
-## For Testing
+# For Testing
 {
     "email": deniz1234@gmail.com
     "password": deniz1234
@@ -17,14 +17,14 @@ Simple Chat App In Kotlin With Firebase Authentication + Firebase Firestore.If Y
 
 
 
-## Screenshots
+# Screenshots
 #### Login-SignUp
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/2q5emyr.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/qnclvvh.png) 
 #### Friends-Chat Screen
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/n5kig7r.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/jp7l67p.png) 
 
 
-## Setup
+# Setup
 #### Requirements
 -Basic knowledge about Android Studio
 -Basic knowledge about Firebase
