@@ -19,7 +19,7 @@ Simple Chat App In Kotlin With Firebase Authentication + Firebase Firestore.If Y
 
 ## Screenshots
 #### Login-SignUp
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/2q5emyr.png)[Uygulama Ekran Görüntüsü](https://i.hizliresim.com/qnclvvh.png) 
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/2q5emyr.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/qnclvvh.png) 
 #### Friends-Chat Screen
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/n5kig7r.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/jp7l67p.png) 
 
@@ -35,8 +35,8 @@ Simple Chat App In Kotlin With Firebase Authentication + Firebase Firestore.If Y
 Note: Download the google-services.json file after the Firebase services are set up to automatically include the services in the json file.
 Note: When updating the google-services.json file then make sure to invalidate the caches as well as doing a clean + rebuild.
 #### Project
-1-) Download and open the project in Android Studio
-2-) Connect your Android phone or use the emulator to start the application
+- Download and open the project in Android Studio
+- Connect your Android phone or use the emulator to start the application
 
 
 
